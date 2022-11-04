@@ -30,7 +30,7 @@ import 'package:h_alert_dialog/h_alert_dialog.dart';
 ```dart
 HAlertDialog.showCustomAlertBox(
                       context: context,
-   					  timerInSeconds: 2,
+                      timerInSeconds: 2,
                       backgroundColor: Colors.green,
                       title: 'Success',
                       description: 'The proccess done successfully',
