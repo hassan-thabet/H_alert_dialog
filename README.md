@@ -8,14 +8,41 @@ A new Flutter package project for simple and beautiful dialogs
 To use this package, add h_alert_dialog as a dependency in your pubspec.yaml file.
 And add this import to your file.
 
+```dart
 import 'package:h_alert_dialog/h_alert_dialog.dart';
+```
 
 ## ScreenShots
-![alt text](screenshots/success.png)     ![alt text](screenshots/error.png)
-![alt text](screenshots/info.png)     ![alt text](screenshots/warning.png)
-
+<p align="center">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/success.png" width="260" title="">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/error.png" width="260" title="">
+</p>
+<p align="center">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/info.png" width="260" title="">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/warning.png" width="260" title="">
+</p>
 
 ## Example
 
 ![alt text](screenshots/example.jpg)
+
+## Code
+```dart
+HAlertDialog.showCustomAlertBox(
+                      context: context,
+   					  timerInSeconds: 2,
+                      backgroundColor: Colors.green,
+                      title: 'Success',
+                      description: 'The proccess done successfully',
+                      icon: Icons.done,
+                      iconSize: 32,
+                      iconColor: Colors.green,
+                      titleFontFamily: 'Raleway',
+                      titleFontSize: 22,
+                      titleFontColor: Colors.black54,
+                      descriptionFontFamily: 'Raleway',
+                      descriptionFontColor: Colors.black45,
+                      descriptionFontSize: 18,
+                    );
+```
 
