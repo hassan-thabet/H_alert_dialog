@@ -13,11 +13,11 @@ import 'package:h_alert_dialog/h_alert_dialog.dart';
 ```
 
 ## ScreenShots
-<p align="center">
+<p>
     <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/success.png" width="260" title="">
     <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/error.png" width="260" title="">
 </p>
-<p align="center">
+<p>
     <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/info.png" width="260" title="">
     <img src="https://github.com/hassan-thabet/H_alert_dialog/blob/main/screenshots/warning.png" width="260" title="">
 </p>
