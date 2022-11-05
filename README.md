@@ -24,7 +24,9 @@ import 'package:h_alert_dialog/h_alert_dialog.dart';
 
 ## Example
 
-![alt text](screenshots/example.jpg)
+<p>
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/example.jpg" width="300" title="">
+</p>
 
 ## Code
 ```dart
