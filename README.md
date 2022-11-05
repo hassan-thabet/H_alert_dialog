@@ -25,7 +25,7 @@ import 'package:h_alert_dialog/h_alert_dialog.dart';
 ## Example
 
 <p>
-    <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/example.jpg" width="300" title="">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/example.jpg" width="900" title="">
 </p>
 
 ## Code
