@@ -15,11 +15,11 @@ import 'package:h_alert_dialog/h_alert_dialog.dart';
 ## ScreenShots
 <p>
     <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/success.png" width="260" title="">
-    <img src="https://github.com/hassan-thabet/H_alert_dialog/row/main/screenshots/error.png" width="260" title="">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/error.png" width="260" title="">
 </p>
 <p>
-    <img src="https://github.com/hassan-thabet/H_alert_dialog/row/main/screenshots/info.png" width="260" title="">
-    <img src="https://github.com/hassan-thabet/H_alert_dialog/row/main/screenshots/warning.png" width="260" title="">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/info.png" width="260" title="">
+    <img src="https://github.com/hassan-thabet/H_alert_dialog/raw/main/screenshots/warning.png" width="260" title="">
 </p>
 
 ## Example
@@ -46,4 +46,4 @@ HAlertDialog.showCustomAlertBox(
                     );
 ```
 
-👍
+
